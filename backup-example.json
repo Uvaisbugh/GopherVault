@@ -1,0 +1,25 @@
+[
+  {
+    "id": "bb727d5d",
+    "title": "Docker cleanup",
+    "body": "docker system prune -a",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "created_at": "2026-10-14T11:06:48.0079603Z",
+    "updated_at": "2026-10-14T11:06:48.0079603Z"
+  },
+  {
+    "id": "8f4649e2",
+    "title": "Git undo commit",
+    "body": "git reset --soft HEAD~1",
+    "tags": [
+      "git",
+      "vcs"
+    ],
+    "category": "git",
+    "created_at": "2026-10-14T11:06:48.0432778Z",
+    "updated_at": "2026-10-14T11:06:48.0432778Z"
+  }
+]

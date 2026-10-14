@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+gopher
+gopher.exe
+
+# Test artifacts
+*.test
+*.out
+
+# Local data & backups
+*.json
+!backup-example.json
+.gophervault/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
